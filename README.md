@@ -60,4 +60,4 @@ As we do not disturb the stack cookie - all we need to do after writing this pay
 ![alttext](shell.png "shell")
 
 ### Acknowledgments
-I want to thank `Krzysztof Zieliński` for providing a review of the first version of this writeup.
+I want to thank `Krzysztof Zając` for providing a review of the first version of this writeup.
